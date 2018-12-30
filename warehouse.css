@@ -1,0 +1,19 @@
+/*
+	Style for warehouse
+*/
+
+body {
+    font-family: 'Indie Flower';
+    font-size: 20px;
+    background-color: rgba(59, 169, 156, 1);
+    color: black;
+}
+
+select {
+    font-family: 'Slabo+27px', regular;
+    background-color: rgba(126, 188, 230, 1);
+}
+
+img {
+    float: right;
+}

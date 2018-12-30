@@ -1,0 +1,25 @@
+/*
+	Style for customer
+*/
+
+select {
+    font-family: 'Slabo+27px', regular;
+    background-color: rgba(126, 188, 230, 1);
+}
+
+input {
+    font-family: 'Slabo+27px', regular;
+    background-color: rgba(126, 188, 230, 1);
+}
+
+#add_cust {
+    font-family: 'Mali', regular;
+}
+
+#del_cust {
+    font-family: 'Mali', regular;
+}
+
+#update_phone {
+    font-family: 'Mali', regular;
+}

@@ -1,0 +1,20 @@
+/*
+	Style for new purchase
+*/
+
+select {
+    font-family: 'Slabo+27px', regular;
+    background-color: rgba(126, 188, 230, 1);
+}
+
+input {
+    background-color: rgba(126, 188, 230, 1);
+}
+
+#add_purchase {
+    font-family: 'Mali', regular;
+}
+
+#show_purchase {
+    font-family: 'Mali', regular;
+}

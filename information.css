@@ -1,0 +1,16 @@
+/*
+	Style for customer information
+*/
+
+select {
+    font-family: 'Slabo+27px', regular;
+    background-color: rgba(126, 188, 230, 1);
+}
+
+#customer {
+    font-family: 'Mali', regular;
+}
+
+#displayproducts {
+    font-family: 'Mali', regular;
+}

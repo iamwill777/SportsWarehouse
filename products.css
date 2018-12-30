@@ -1,0 +1,29 @@
+/*
+	Style for product information
+*/
+
+select {
+    font-family: 'Slabo+27px', regular;
+    background-color: rgba(126, 188, 230, 1);
+}
+
+input {
+    font-family: 'Slabo+27px', regular;
+    background-color: rgba(126, 188, 230, 1);
+}
+
+#notPurchased {
+    font-family: 'Mali', regular;
+}
+
+#select_methods {
+    font-family: 'Mali', regular;
+}
+
+#product {
+    font-family: 'Mali', regular;
+}
+
+#greaterThan {
+    font-family: 'Mali', regular;
+}
